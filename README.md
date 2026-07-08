@@ -70,7 +70,7 @@ decodelabs-rulebased-chatbot/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ahmedajwa-ai/decodelabs-rulebased-chatbot.git
+git clone https://github.com/ajwaahmed-ai/decodelabs-rulebased-chatbot.git
 cd decodelabs-rulebased-chatbot
 ```
 
